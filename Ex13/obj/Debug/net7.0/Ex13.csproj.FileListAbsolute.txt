@@ -1,0 +1,15 @@
+D:\DZ2\Ex13\bin\Debug\net7.0\Ex13.exe
+D:\DZ2\Ex13\bin\Debug\net7.0\Ex13.deps.json
+D:\DZ2\Ex13\bin\Debug\net7.0\Ex13.runtimeconfig.json
+D:\DZ2\Ex13\bin\Debug\net7.0\Ex13.dll
+D:\DZ2\Ex13\bin\Debug\net7.0\Ex13.pdb
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.csproj.AssemblyReference.cache
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.AssemblyInfoInputs.cache
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.AssemblyInfo.cs
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.csproj.CoreCompileInputs.cache
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.dll
+D:\DZ2\Ex13\obj\Debug\net7.0\refint\Ex13.dll
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.pdb
+D:\DZ2\Ex13\obj\Debug\net7.0\Ex13.genruntimeconfig.cache
+D:\DZ2\Ex13\obj\Debug\net7.0\ref\Ex13.dll
